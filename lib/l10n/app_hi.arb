@@ -1,0 +1,25 @@
+{
+"english" : "English",
+"hindi" : "हिंदी",
+"selectLanguage" : "कृपया अपनी भाषा चुनें",
+"changeLanguage" : "आप किसी भी समय भाषा\nबदल सकते हैं",
+"frameButton" : "आगे बड़े",
+
+"mobileNumberText" : "कृपया अपना मोबाइल नंबर दर्ज करें",
+"receiveCode" : "6-अंकों का OPT SMS द्वारा आपके\nफोन पर भेजा गया है",
+"enterMobileNumber" : "अपना फोन नंबर डालें ",
+"numberButton" : "जारी रखें",
+
+"verifyPhoneText" : "कृपया अपना OPT दर्ज करें",
+"sentCodeText" : "कोड भेजा गया है",
+"dontReceiveCodeText" : "कोड प्राप्त नहीं हुआ?",
+"requestAgain" : "पुनः अनुरोध करें",
+"requestResendOTP" : "OTP को पुनः भेजें",
+"verifyButton" : "OPT डालें जारी रखें",
+
+"selectProfileText" : "कृपया अपना प्रोफ़ाइल चुनें",
+"shipperText" : "शिपर",
+"transporterText" : "ट्रांसपोर्टर",
+"subTitleProfile" : "लोरेम इप्सम डोलर सिट अमेट,\nकंसेक्टेटुर एडिपिसिंग"
+
+}

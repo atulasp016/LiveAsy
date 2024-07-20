@@ -1,0 +1,25 @@
+{
+"english" : "English",
+"hindi" : "Hindi",
+"selectLanguage" : "Please select your Language",
+"changeLanguage" : "You can change the Language\nat any time",
+"frameButton" : "NEXT",
+
+"mobileNumberText" : "Please enter your mobile number",
+"receiveCode" : "You’ll receive a 6 digit code\nto verify next.",
+"enterMobileNumber" : "Mobile Number",
+"numberButton" : "CONTINUE",
+
+"verifyPhoneText" : "Verify Phone",
+"sentCodeText" : "Code is sent to",
+"dontReceiveCodeText" : "Didn’t receive the code?",
+"requestAgain" : "Request Again",
+"requestResendOTP" : "Resend to OTP",
+"verifyButton" : "VERIFY AND CONTINUE",
+
+"selectProfileText" : "Please select your profile",
+"shipperText" : "Shipper",
+"transporterText" : "Transporter",
+"subTitleProfile" : "Lorem ipsum dolor sit amet,\nconsectetur adipiscing"
+
+}
